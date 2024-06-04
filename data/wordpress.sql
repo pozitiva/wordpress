@@ -107,8 +107,8 @@ CREATE TABLE `wp_options` (
 --
 
 INSERT INTO `wp_options` (`option_id`, `option_name`, `option_value`, `autoload`) VALUES
-(1, 'siteurl', 'http://localhost:8081/wordpress/wordpress', 'yes'),
-(2, 'home', 'http://localhost:8081/wordpress/wordpress', 'yes'),
+(1, 'siteurl', 'http://localhost:8090', 'yes'),
+(2, 'home', 'http://localhost:8090', 'yes'),
 (3, 'blogname', 'Nature', 'yes'),
 (4, 'blogdescription', '', 'yes'),
 (5, 'users_can_register', '0', 'yes'),
